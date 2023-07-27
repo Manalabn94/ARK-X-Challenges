@@ -1,0 +1,60 @@
+
+body {
+     background-image: url(Image7.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.container{
+     max-width: 380px;
+     margin: auto;
+     margin-top: 100px;
+     background-color: rgba(0,0,0,0.8);
+     text-align:start;
+     padding: 40px;
+     border-radius: 20px;
+     color: #ffffff;
+     box-sizing: border-box;
+}
+
+p {
+     text-align: center;
+     font-size: large;
+     font-weight:bold;
+     font-style: initial;
+     color: rgb(255, 255, 255);
+     padding : 1rem;
+     text-transform: capitalize;
+     font-weight: bold;
+
+}
+
+legend {
+     color: rgb(227, 228, 225);
+     font-size: large;
+     border-bottom: 1px #c2bebe solid;
+
+}
+
+label {
+     color: rgb(231, 229, 229);
+     width: 100%;
+     margin: 10px;
+     outline: none;
+     padding: 10px 6;
+     background-color: transparent;
+     box-sizing: border-box;
+     border: none;
+}
+
+button {
+     width: 25%;
+     border-radius: 5px;
+     padding: 5px;
+     background-color: transparent;
+     border-color:rgb(177, 174, 174);
+     color: rgb(255, 255, 255);
+     font-weight: bold;
+     margin:0 auto;
+     display:block;
+}
